@@ -7,7 +7,7 @@ HarmonyOS PC 上的 HAP 签名与安装工具。本仓库目前只用于发布 R
 在设备终端中执行：
 
 ```sh
-wget -O - https://github.com/nknkol/HNPM/releases/latest/download/install.sh | sh
+wget -O - https://raw.githubusercontent.com/nknkol/HNPM/dist/install.sh | sh
 ```
 
 安装过程：
